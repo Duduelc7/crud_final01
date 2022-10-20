@@ -143,5 +143,3 @@ AUTH_USER_MODEL = 'user.User'
 
 LOGIN_REDIRECT_URL = 'index'
 LOGOUT_REDIRECT_URL = 'index'
-
-a = 1
